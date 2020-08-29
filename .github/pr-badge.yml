@@ -1,0 +1,5 @@
+label: "JIRA"
+url: "https://fernandotest.atlassian.net/browse/$issuePrefix"
+message: "$issuePrefix"
+color: "0055CC"
+when: "$issuePrefix" 
