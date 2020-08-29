@@ -4,7 +4,7 @@ message: "$issuePrefix"
 color: "0055CC"
 when: "$issuePrefix" 
 invalidPRTitleComment: >
-  ### Example. 
+  ### Example  
   - ✅ &nbsp;[JIRA-1234] 기존 기능에 대한 개선 사항 반영  
   - ⚠️ &nbsp;기능에 대한 개선사항 반영  
   - ⛔️ &nbsp;Feature/hotissue  
